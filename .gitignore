@@ -1,0 +1,40 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.env/
+venv/
+env/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Media / CV Files ---
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# --- Data Files ---
+*.csv
+*.json
+*.xlsx
+*.pickle
+*.pkl
+
+# --- Logs ---
+*.log
+
+# --- System / Editor Files ---
+.DS_Store
+Thumbs.db
+
+# --- VSCode ---
+.vscode/
