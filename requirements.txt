@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+opencv-python
+mediapipe
+scikit-learn
+xgboost
+jupyter
+shap
